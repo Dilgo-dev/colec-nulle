@@ -3,6 +3,7 @@
 * repurpose
 * republish
 * publish edited version of it
+* Donné 1000 balles à dilgo-dev
 
 # You can not:
 
